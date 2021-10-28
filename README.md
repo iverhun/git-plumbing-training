@@ -24,21 +24,21 @@
     1. non-existing file, 
     1. existing file but with content different that in the blob
 ##### Tree:
-3. create untracked file (don't add it to the index)
+1. create untracked file (don't add it to the index)
 3. `git write-tree`
 4. `git cat-file` for the created tree
 ##### Commits:
-6. create commit: `git commit-tree <tree-hash> -m <commit message>`
+1. create commit: `git commit-tree <tree-hash> -m <commit message>`
 7. `git cat-file` for commit
 8. create commit with parent commit
 9. Explain that git history is a snapshot of the state of the tree, not a sequence of diffs
 ##### Branches, HEAD:
-10. create 2 branches by creating 2 files in `.git/refs/heads` folder. Point branches to specific commits
+1. create 2 branches by creating 2 files in `.git/refs/heads` folder. Point branches to specific commits
 11. change reference in the `HEAD` file to another branch. Show the result with `git branch`
 12. Summary: branches and `HEAD` are jus references (as well as tags)
 ##### `git fsck`
 ##### Show visual learning tools:
-15. http://git-school.github.io/visualizing-git/ 
+1. http://git-school.github.io/visualizing-git/ 
       16. Demonstrate `merge` vs `rebase`
 17. https://learngitbranching.js.org
 ##### Alternative (non-SCM) git use cases
