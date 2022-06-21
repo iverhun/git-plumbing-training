@@ -45,9 +45,15 @@
 
 # Additional Resources
 https://github.com/pluralsight/git-internals-pdf
+
 https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html
+
 https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/5-the-beauty-of-commits.html
+
 https://www.freecodecamp.org/news/git-internals-objects-branches-create-repo/
+
 https://aboullaite.me/deep-dive-into-git/
+
 https://gitolite.com/uses-of-index.html
+
 https://www.chromium.org/developers/fast-intro-to-git-internals
