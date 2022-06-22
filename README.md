@@ -57,3 +57,5 @@ https://aboullaite.me/deep-dive-into-git/
 https://gitolite.com/uses-of-index.html
 
 https://www.chromium.org/developers/fast-intro-to-git-internals
+
+https://www.tutorialspoint.com/what-is-3-way-merge-or-merge-commit-in-git
