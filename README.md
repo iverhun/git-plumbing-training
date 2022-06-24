@@ -1,3 +1,6 @@
+# Video from #LvivJavaClub event
+https://www.youtube.com/watch?v=Xk5hH79dCBU&t=2132s
+
 # Agenda
 
 ##### Intro. Git as file system.
